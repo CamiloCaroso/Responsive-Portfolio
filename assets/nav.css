@@ -13,7 +13,7 @@ body {
 #name {
     float: left;
     width: auto;
-    margin-left: 15%;
+    margin-left: 8%;
     background-color: #58b0a7;
     padding: 25px;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -25,7 +25,7 @@ body {
 #pages {
     padding-top: 25px;
     float: right;
-    margin-right: 15%;
+    margin-right: 8%;
 }
 
 a {
@@ -39,16 +39,6 @@ a {
     border-left: solid #e8e8e8 2px;
 }
 
-@media screen and (max-width: 920px) {
-    #name {
-        margin-left: 5%;
-    }
-    #pages {
-        margin-right: 5%;
-    }
-}
-
-
 
 
 
@@ -60,13 +50,13 @@ a {
 
 
 #fot {
-    overflow: auto;
     background: #666666;
     text-align: center;
     padding: 20px;
     border-top: 8px solid #4aaaa5;
     color: #e8e8e8;
-    position: relative;
+    margin-top: 44px;
    
 
 }
+
