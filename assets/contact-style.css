@@ -1,5 +1,5 @@
 #general {
-    height: 400px;
+    height: auto;
     margin-left: 8%;
     margin-right: 8%;
     background: #ffffff;
@@ -45,5 +45,9 @@ textarea {
     padding: 10px;
     border: solid #58b0a7 1px;
     width: 120px;
+}
+
+#fot {
+    margin-top: 58px;
 }
 
