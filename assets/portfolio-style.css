@@ -1,5 +1,5 @@
 #general {
-    height: 800px;
+    height:428px;
     margin-left: 8%;
     margin-right: 8%;
     background: #ffffff;
@@ -70,6 +70,25 @@ img {
     img {
         width: 100%;
         height: 300px;
+        
+
+    }
+    .sel {
+        margin-left: 25px;
+    }
+}
+
+@media screen and (max-width: 560px){
+    #general {
+        height: 600px;
+    }
+
+}
+
+@media screen and (max-width: 540px){
+    #general {
+        height: 900px;
+
     }
 }
 
